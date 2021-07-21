@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to  Mini Projeto de Engenharia de Software(Jogo Tetris)
 
-You can use the [editor on GitHub](https://github.com/alvileo2/miniprojetoengenhariasoftwareif/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O jogo Tetris nasceu na antiga URSS, em junho de 1984, e foi desenvolvido pelo cientista russo Alexey Pajitnov no Centro de Computação da Academia Russa de Ciências (Russian Academy of Sciences). Em plena Guerra Fria, Pajitnov se inspirou em um jogo de tabuleiro de origem grega, chamado Pentominoes, para criar o game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nosso equipe construi este jogo seguindo a receita  da referencia do professor da disciplina .Em que fizemos algumas modificação só para aprende usar as ferramentas script , js, html. Utilizamos editor Atom  e  também visual studio ![image](https://user-images.githubusercontent.com/87626156/126555481-7cea19d2-7d33-41dc-b7ba-e21ba1fceae2.png)
 
-### Markdown
+### Grupo Formado :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Alexandre Vieira Leonardo, Pablo Timoteo do Nascimento, Márcio Wendell.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ *E*Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alvileo2/miniprojetoengenhariasoftwareif/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
